@@ -1,0 +1,10 @@
+301_How many digits are there in Hindu-Arabic System?_10_20_30_40_1_1.0
+302_Who is father of maths?_Aryabhatta_Ramanujan_Archimedes_Issac Newton_3_1.0
+303_A number which is expressed as a + ib, where a and b are real are called: _Rational number _Irrational number_Complex number _Real number_2_1.0
+304_What is the number called located on the bottom part of a fraction? _Numerator _Denominator_Componendo _Ratio_2_1.0
+305_What is XLII in Arabic Numerals?_42 _52_62 _12_1_1.0
+306_What is the value of the golden ratio? _3.14 _6.023_5.345_1.618_4_1.0
+307_Which of the following is not a trigonometric function? _cosec _secant_pi _tangent_3_1.0
+308_The cube root of 343 is _8_7_17_13_2_1.0
+309_The probability of an impossible event is? _0_1_0.25_0.50_1_1.0
+310_Calculus was discovered by whom? _Issac  Newton_Aryabhatta _Pythagoras _Sakata Gintoki_1_1.0

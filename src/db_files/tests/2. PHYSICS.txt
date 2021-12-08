@@ -1,0 +1,10 @@
+201_The SI (System International) unit of pressure is ?_pascal_kelvin_weber_hertz_1_2.0
+202_If we add all the 7 colors of rainbow, the resultant color would be_White_Black_Maroon_Dark Blue_1_2.0
+203_Short-sight defect could be corrected by a_convex lens_concave lens_converging lens_none of these_2_1.0
+204_The laws of motion were given by which physicist?_Albert Einstein_Nikola Tesla_Isaac Newton_C.V.Raman_3_2.0
+205_An instrument used to measure gas pressure is called_ammeter_barometer_galvanometer_manometer_4_1.0
+206_When vapors of a substance are cooled and changes into liquid, it is called_conduction_condensation _convection_evaporation_2_1.0
+207_The speed of sound will be maximum if passing through_vacuum_air_water_iron_4_1.0
+208_The wire used to make the filament of a light bulb is made of_nichrome_chromel_tungsten_fire-clay_3_1.0
+209_The branch of Physics that deals with behaviour and properties of light is called_Electrostatics_kinematics_Mechanics_Optics_4_2.0
+210_Subatomic particles (electron, proton. neutron) are made up of_photo_molecules_elements_quarks_4_1.0

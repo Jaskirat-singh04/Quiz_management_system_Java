@@ -1,0 +1,10 @@
+101_Who is known as father of computer?_Charles Babbage_Ada Lovelance_Bill Gates_Elon Musk_1_1.0
+102_MS-Word is an example of?_An operating system_A processing device_Application software_An input device_3_2.0
+103_The programming technique where a function calls itself is known as?_inline function_encapsulation_recursion_it is a bug_3_3.0
+104_Which programming language is widely used for Machine Learning?_R_C++_Matlab_Python_4_3.0
+105_The world's most popular computer operating system is?_Windows_Macintosh_Linux_Android_1_1.0
+106_LCD stands for:_Liquid Crystalline Display_Liquid Crystal Display_Logical Crystal Display_Liquid Crystal Device_2_2.0
+107_A space in computer memory set aside for some data that can be changed is called_Variable_Constant_Integer_Floating Point_1_2.0
+108_What is smallest unit of the information?_A bit_A byte_A block_A nibbe_1_1.0
+109_Which of the following is not an object oriented programming language?_JAVA_C_c++_Python_2_2.0
+110_The program execution begins at_Class declaration_Import statement_From Comments_Main Method_4_2.0
